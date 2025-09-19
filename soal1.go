@@ -41,6 +41,7 @@ func calculateF(n int) int {
 	return int(resultInt.Int64())
 }
 
+// Nyalankan fungsi utama Untuk uji coba
 func main() {
 	// Uji fungsi dengan beberapa contoh
 	for n := 0; n <= 10; n++ {
